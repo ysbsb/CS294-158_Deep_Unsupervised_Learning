@@ -21,6 +21,7 @@
 
 - [x] Lecture 1 Introduction  
 - [x] Lecture 2 Autoregressive Models
+- [x] Lecture 3 Flow Models (2020.07.25.)
 
 
 
